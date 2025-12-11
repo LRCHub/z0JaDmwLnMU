@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "メイジ・オブ・ヴァイオレット",
+  "base_artist": "紫咲シオン",
+  "createdAt": "2025-12-11T09:48:30.685561Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "メイジ・オブ・ヴァイオレット",
+      "artist": "紫咲シオン",
+      "has_synced": true,
+      "path": "select/01_メイジ・オブ・ヴァイオレット_紫咲シオン.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "メイジ・オブ・ヴァイオレット",
+      "artist": "紫咲シオン",
+      "has_synced": false,
+      "path": "select/pl_01_メイジ・オブ・ヴァイオレット_紫咲シオン.txt"
+    }
+  ]
+}
